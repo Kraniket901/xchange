@@ -208,7 +208,7 @@ const Header = () => {
   { "id": 174, "name": "Varanasi" },  
   { "id": 175, "name": "Meerut" },
   { "id": 176, "name": "Faridabad" },
-  { "id": 177, "name": "Rajkot" }   
+  { "id": 177, "name": "Rajkot" },   
 ];
 
   const handleOnSelect = (item) => {
